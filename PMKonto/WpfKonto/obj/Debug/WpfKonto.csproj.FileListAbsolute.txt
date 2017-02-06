@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\bin\Debug\WpfKonto.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\bin\Debug\WpfKonto.exe
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\bin\Debug\WpfKonto.pdb
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\bin\Debug\CLKonto.dll
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\bin\Debug\CLKonto.pdb
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto.g.resources
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto.exe
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\WpfKonto\obj\Debug\WpfKonto.pdb

@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\bin\Debug\ConKonto.exe.config
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\bin\Debug\ConKonto.exe
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\bin\Debug\ConKonto.pdb
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\bin\Debug\CLKonto.dll
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\bin\Debug\CLKonto.pdb
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\obj\Debug\ConKonto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\obj\Debug\ConKonto.exe
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\ConKonto\obj\Debug\ConKonto.pdb

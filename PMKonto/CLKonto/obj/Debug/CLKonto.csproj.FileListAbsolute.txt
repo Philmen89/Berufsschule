@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\CLKonto\bin\Debug\CLKonto.dll
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\CLKonto\bin\Debug\CLKonto.pdb
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\CLKonto\obj\Debug\CLKonto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\CLKonto\obj\Debug\CLKonto.dll
+c:\users\user\documents\visual studio 2013\Projects\PMKonto\CLKonto\obj\Debug\CLKonto.pdb
